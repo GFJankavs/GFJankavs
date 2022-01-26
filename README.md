@@ -1,9 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Gustavs Fricis Jankavs</h1>
 <h3 align="center">Frontend Developer with a hunger for knowledge</h3>
 
-- 🔭 I’m currently working on [AGdir Technical Homework](https://github.com/GFJankavs/AGdir-Angular)
-
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GFJankavs?tab=repositories](https://github.com/GFJankavs?tab=repositories)
 
